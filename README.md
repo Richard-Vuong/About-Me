@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Rxch4rd
 - 👀 I’m interested in AI
-- 🌱 I’m currently learning Data Science
+- 🌱 I’m currently learning Data Analytics
 - 💞️ I’m looking to collaborate on nothing ATM
-- 📫 How to reach me: n/a
+- 📫 How to reach me: Richard_Vuong@outlook.com
 
 <!---
 Rxch4rd/Rxch4rd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
