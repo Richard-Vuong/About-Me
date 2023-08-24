@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Richard 
 - 👀 I’m interested in AI
 - 🌱 I’m currently studying Clustering.
-- 💞️ I’m looking to collaborate on anything API.
 - 📫 How to reach me: Richard_Vuong@outlook.com
