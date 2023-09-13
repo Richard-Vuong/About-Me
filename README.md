@@ -1,4 +1,4 @@
-### Hi there! I'm Richard!
+### 👋👋👋 Hi there! I'm Richard!
 
 - 👀 I’m interested in GenAI! 
 - 🌱 I’m currently studying Python for the PCAP exam
