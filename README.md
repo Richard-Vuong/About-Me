@@ -1,5 +1,5 @@
 # 👋👋👋 Hi there! I'm Richard!
-##### 📚  Python, SQL and Tableau (https://public.tableau.com/app/profile/richard.vuong)  
-##### 👀  My interest is everything tech related, but more specifically, Generative AI.
-##### 🌱 I’m currently studying Python for the PCAP exam
+##### 📚  Tech Stack: Python, SQL and Tableau (https://public.tableau.com/app/profile/richard.vuong)  
+##### 👀  Current Interests: The development and ethics behind Generative AI.
+##### 🌱 Growth: I'm currently studying for the associate certificate in Python Programming.
 ##### 📫 Feel free to contact me @ Richard_Vuong@outlook.com
