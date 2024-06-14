@@ -1,5 +1,5 @@
 # 👋👋👋 Hi there! I'm Richard!
 ##### 📚  Current Tech Stack: Excel, Python, SQL, C# and Tableau
-##### 👀  Current Interests: GenAI
-##### 🌱 Growth: Currently taking on the ESG course by IBM
+##### 👀  Current Interests: Front-End
+##### 🌱 Growth: Currently learning some front-end development on FreeCodeCamp (Started 01/06/2024)
 
